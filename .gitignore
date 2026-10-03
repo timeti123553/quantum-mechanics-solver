@@ -1,0 +1,11 @@
+# 用户私有数据：本机解释器记录、个人偏好、题库（含插图）——不随 skill 分发
+references/local/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 系统杂项
+Thumbs.db
+desktop.ini
+.DS_Store
